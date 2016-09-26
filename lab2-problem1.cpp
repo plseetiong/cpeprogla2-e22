@@ -10,4 +10,6 @@ int main(){
 	cin >> no1;
 	
 	cout<<round(no1);
+	
+	return 0;
 }
